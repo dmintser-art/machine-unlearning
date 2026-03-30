@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+cache/
+outputs/
+wandb/
+*.npy
+*.pt
+*.bin
+*.safetensors
+.env
+HF_DS/
