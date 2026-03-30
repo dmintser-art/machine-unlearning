@@ -1,5 +1,4 @@
-# Beyond Random Guessing: Representation-Level Evaluation of Machine Unlearning
-
+# Beyond Random Guessing: How MCQ Benchmarks Overstate Forgetting and Mask Retain Damage in Machine Unlearning
 This repository implements **RMU (Representation Misdirection for Unlearning)** with checkpoint evaluation, embedding-based probe baselines, and MCQ/free-text evaluation across multiple LLMs. Evaluated on **WMDP-bio**, **HP (Harry Potter)**, **MMLU**, and **MedMCQA** benchmarks.
 
 Supported models: **Qwen 2.5 7B**, **Llama 3.1 8B**, **Gemma 2 9B**, **Gemma 3 4B**, **Qwen 3.5 9B** (with SBERT as an additional embedding baseline).
